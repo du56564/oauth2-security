@@ -1,4 +1,4 @@
-package com.github.wkennedy;
+package com.deepak.security;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class SimpleServiceApplicationTests {
+public class AuthorizationServerApplicationTests {
 
 	@Test
 	public void contextLoads() {

@@ -1,4 +1,4 @@
-package com.github.wkennedy;
+package com.deepak.security;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
